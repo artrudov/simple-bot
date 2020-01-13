@@ -1,4 +1,4 @@
-# simple-bot
+# Simple-bot
 Simple bot on java
 
 # About
